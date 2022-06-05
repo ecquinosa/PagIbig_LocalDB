@@ -1,0 +1,15 @@
+D:\WORK\Projects\PagibigDBLocal\obj\Debug\PagibigDBLocal.csproj.AssemblyReference.cache
+D:\WORK\Projects\PagibigDBLocal\obj\Debug\PagibigDBLocal.csproj.SuggestedBindingRedirects.cache
+D:\WORK\Projects\PagibigDBLocal\obj\Debug\PagibigDBLocal.Form1.resources
+D:\WORK\Projects\PagibigDBLocal\obj\Debug\PagibigDBLocal.Properties.Resources.resources
+D:\WORK\Projects\PagibigDBLocal\obj\Debug\PagibigDBLocal.Query.resources
+D:\WORK\Projects\PagibigDBLocal\obj\Debug\PagibigDBLocal.csproj.GenerateResource.cache
+D:\WORK\Projects\PagibigDBLocal\obj\Debug\PagibigDBLocal.csproj.CoreCompileInputs.cache
+D:\WORK\Projects\PagibigDBLocal\bin\Debug\PagibigDBLocal.exe.config
+D:\WORK\Projects\PagibigDBLocal\bin\Debug\PagibigDBLocal.exe
+D:\WORK\Projects\PagibigDBLocal\bin\Debug\PagibigDBLocal.pdb
+D:\WORK\Projects\PagibigDBLocal\bin\Debug\DAL.dll
+D:\WORK\Projects\PagibigDBLocal\bin\Debug\DAL.pdb
+D:\WORK\Projects\PagibigDBLocal\obj\Debug\PagibigDBLocal.csproj.CopyComplete
+D:\WORK\Projects\PagibigDBLocal\obj\Debug\PagibigDBLocal.exe
+D:\WORK\Projects\PagibigDBLocal\obj\Debug\PagibigDBLocal.pdb
